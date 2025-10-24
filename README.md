@@ -3,7 +3,7 @@
 
 ---
 
-## 📘 **Project Description**
+## **Project Description**
 The **Blockchain Attendance System** is a prototype that replaces manual attendance tracking with a **blockchain-powered solution**.  
 It ensures transparency, immutability, and reliability by leveraging **smart contracts** on the Ethereum blockchain.  
 
@@ -13,7 +13,7 @@ This project is developed as part of the **Low-Level Track** for the **Initial S
 
 ---
 
-## 🚀 **Core Features**
+## **Core Features**
 ✅ Secure MetaMask wallet login  
 ✅ Smart contract for attendance data storage  
 ✅ Add and verify attendance on blockchain  
@@ -22,7 +22,7 @@ This project is developed as part of the **Low-Level Track** for the **Initial S
 
 ---
 
-## ⚙️ **Technologies & Tools**
+## ⚙️**Technologies & Tools**
 | Component | Tool / Technology |
 |------------|------------------|
 | Smart Contract | Solidity |
@@ -36,7 +36,7 @@ This project is developed as part of the **Low-Level Track** for the **Initial S
 
 ---
 
-## 🧩 **System Overview**
+## **System Overview**
 1. **User Interface (Frontend):**
    - HTML/CSS/JavaScript interface for admin and users.
    - Connects MetaMask for authentication and blockchain transactions.
@@ -53,9 +53,9 @@ This project is developed as part of the **Low-Level Track** for the **Initial S
 
 ---
 
-## 💻 **Setup Instructions**
+##  **Setup Instructions**
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/Magotgarang/initial-software-product-solution-demonstration.git
 cd initial-software-product-solution-demonstration
