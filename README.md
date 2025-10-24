@@ -56,6 +56,6 @@ This project is developed as part of the **Low-Level Track** for the **Initial S
 ##  **Setup Instructions**
 
 ### Clone the Repository
-```bash
+
 git clone https://github.com/Magotgarang/initial-software-product-solution-demonstration.git
 cd initial-software-product-solution-demonstration
